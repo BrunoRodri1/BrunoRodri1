@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, meu nome é Bruno.
+
+
+
 
 <!--
 **BrunoRodri1/BrunoRodri1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

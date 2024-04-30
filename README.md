@@ -1,4 +1,4 @@
-### Olá, meu nome é Bruno.
+### Olá, meu nome é Bruno 👋
 
 
 
